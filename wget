@@ -1,0 +1,4 @@
+wget -f https://github.com/TheTNTDemon/OpenComputers-files/raw/main/libs/json.lua /lib/json.lua
+wget -f https://github.com/TheTNTDemon/OpenComputers-files/raw/main/libs/storage.lua /lib/storage.lua
+
+pastebin get zvhhVpbv /lib/json.lua
